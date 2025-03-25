@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+
+    background-color: darkcyan;
+    height: 3rem;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    gap:1rem
+}
+
+.navigation{
+    /* background-color: darkgray; */
+    height: 100dvh;
+}
+
+.opslag{
+    /* background-color: darkgray; */
+    height: 100dvh;
+}
+.profilbillede{
+    width: 100%;
+    height: auto;
+}
+.wrapper{
+    max-width: 80%;
+    margin: 0 auto;
+}
