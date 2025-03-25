@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.siteHeader{
+    background-color: rgb(136, 96, 96);
+    height: 140px;
+    color: rgb(255, 255, 255);
+padding: 16px;
+font-size: 2rem;
+}
+
+.main{
+    max-width: 80%;
+    margin: 16px auto;
+}
+
+section p {
+    width: 700px;
+}
